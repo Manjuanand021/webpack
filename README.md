@@ -8,6 +8,7 @@ $ npm i
 ```
 $ webpack
 
-#### Run webpack
+
+#### Run
 ```
 $ webpack
