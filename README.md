@@ -1,3 +1,13 @@
 # webpack with webpack.config.js
-####Install modules - npm i
-####run webpack - webpack
+#### Setup
+```
+$ npm i
+```
+
+#### Run webpack
+```
+$ webpack
+
+#### Run 
+```
+$ lite-server
