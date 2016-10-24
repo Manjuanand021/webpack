@@ -7,8 +7,8 @@ $ npm i
 #### Run webpack
 ```
 $ webpack
-
+```
 
 #### Run
 ```
-$ webpack
+$ lite-server
